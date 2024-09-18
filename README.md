@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-aadhi" alt="its-aadhi" /></a> </p>
 
-- 🔭 I’m currently working on **SASP Liveries**
+- 🔭 I’m currently working on **IDk**
 
 - 🌱 I’m currently learning **Lua, Java, and Python**
 

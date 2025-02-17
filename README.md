@@ -5,7 +5,7 @@ A passionate developer from Nepal
 -------------------------------------
 
 * 🌍  I'm based in Nepal
-* ✉️  You can contact me at [aadhi944@gmail.com](mailto:aadhi944@gmail.com)
+* ✉️  You can contact me at [aadhi944@gmail.com](mailto:aadhi944@gmail.com) 
 * 🧠  I'm learning Lua, HTML & CSS, C, and Python
 * 🤝  I'm open to collaborating on Five-M Server Development
 * ⚡  I love Games

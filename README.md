@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 ## About Me
 
-- 🔭 I’m currently working on various web development projects
+- 🔭 I’m currently working on various web development projects 
 - 🌱 I’m currently learning C programming and cloud computing
 - 💬 How to reach me: [Connect with Me](#connect-with-me)
 - ⚡ Fun fact: I love hiking and exploring new places
